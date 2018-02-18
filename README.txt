@@ -1,8 +1,6 @@
 ﻿Object Oriented Programming ; 2018 a
 
-ex2 : Michael Shriki 305599417 , Kfir Matityahu 205425960
-
-//~~~המטלה הוגשה באיחור של יומיים באישור המרצה עקב מילואים~~~//
+ex2 : Michael Shriki , Kfir Matityahu
 
 This program mimic the PacMan Game via CMD
 Warring: we only exept 5 Levels! no less or more, the Levels txt in the project (Board.txt)
