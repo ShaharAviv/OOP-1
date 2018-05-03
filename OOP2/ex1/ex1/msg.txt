@@ -1,0 +1,15 @@
+eval(uate) num x - Evaluates function #num on x
+poly(nomial) N c0 c1 ... cN-1 - Creates a polynomial with N
+coefficients
+rev(erse) num - Creates a polynomial with N coefficients in
+reverse order
+mul(tiply) num1 num2 - Creates a function that is the
+multiplication of function #num1 and function #num2
+add num1 num2 - Creates a function that is the sum of function
+#num1 and function #num2
+comp(osite) num1 num2 - Creates a function that is the composition
+of function #num1 and function #num2
+log N num - Log N of function #num
+del(ete) num - Deletes function #num from function list
+help - Prints this help screen
+exit - Exits the program

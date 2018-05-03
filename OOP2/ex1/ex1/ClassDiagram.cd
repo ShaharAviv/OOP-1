@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Add" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYABAAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Add.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BinaryExp" Collapsed="true">
+    <Position X="1.5" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgQABAAAAAAAAAAAACABAAAAAAIAAAAIAAAAAAAAAAA=</HashCode>
+      <FileName>BinaryExp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Calculator" Collapsed="true">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAggEAAAAAABABAACCEAQAQAAAAAAAAAAAAACAAA=</HashCode>
+      <FileName>Calculator.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Function" Collapsed="true">
+    <Position X="6" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAAAAAAAAAAAAAAIAAAIIAAAAEAAAAAA=</HashCode>
+      <FileName>Function.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ln" Collapsed="true">
+    <Position X="7.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAAAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Ln.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Log" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAAAAAAAAAAAEAAoAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Log.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Mul" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAUABAAAAAAAAAAAAAAAAAAAAAIAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Mul.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Poly" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAgAAAAAAAAAAAAAAAAAAEIAAAIIAAAAEAAAAAA=</HashCode>
+      <FileName>Poly.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Sqrt" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAAAAAAAAAAAAAAYAAAAIAAAAEAAAAAA=</HashCode>
+      <FileName>Sqrt.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UnaryExp" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAEAAAAAAAAAAAAIAAAAIAAAAABAAAAA=</HashCode>
+      <FileName>UnaryExp.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VarX" Collapsed="true">
+    <Position X="11.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQABAAAAAAAAACAAAAAAAAAAAIAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>varX.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
