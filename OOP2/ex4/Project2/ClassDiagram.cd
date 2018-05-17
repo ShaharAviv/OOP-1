@@ -1,0 +1,123 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Block">
+    <Position X="16.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEIAAAAAAAAAAQAAIgCAAgAAAAAAAAAAAAAEAAAAA=</HashCode>
+      <FileName>Block.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Game">
+    <Position X="20.5" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>CQAYAhCAEAAAgBJAAAAAAIAAAAsAAAAAAATAAAgUABA=</HashCode>
+      <FileName>Game.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="MainMenu" Collapsed="true">
+    <Position X="16.25" Y="3.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACACAQAhAAIAAAAQAAAAAAEAAACAAAAEAAE=</HashCode>
+      <FileName>MainMenu.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="PieceNSize&lt;sizeN&gt;" Collapsed="true">
+    <Position X="7.25" Y="1.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAgAADAIAIQAAEBAAAgAgIAAAAAAAAAAAA=</HashCode>
+      <FileName>PieceNsize.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Piece" Collapsed="true">
+    <Position X="7.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAgAAAgQADAIIIQAAABAAEgAAIAABIAIMQAAAA=</HashCode>
+      <FileName>Piece.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="I" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAAA=</HashCode>
+      <FileName>Pieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="J" Collapsed="true">
+    <Position X="7.25" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+      <FileName>Pieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="L" Collapsed="true">
+    <Position X="11.75" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA=</HashCode>
+      <FileName>Pieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="O" Collapsed="true">
+    <Position X="14" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAA=</HashCode>
+      <FileName>Pieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="S" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACAAAA=</HashCode>
+      <FileName>Pieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Z" Collapsed="true">
+    <Position X="5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAE=</HashCode>
+      <FileName>Pieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="T" Collapsed="true">
+    <Position X="9.5" Y="3.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Pieces.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Board">
+    <Position X="18.25" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AFAAAAggQAIAEAAAIAIAAAAiAAAAAAAAiAAAACBAgAA=</HashCode>
+      <FileName>Board.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SrcManager" Collapsed="true">
+    <Position X="18.25" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AgCAoAgAAAAAAQAAAQAAAEAAAABBAAAoAACgAAEBAQA=</HashCode>
+      <FileName>SrcManager.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="States" Collapsed="true">
+    <Position X="14.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAQAAAAAAAAIAAAADAAAECCCDBAAABAgEAgA=</HashCode>
+      <FileName>States.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Enum Name="OPERATION" Collapsed="true">
+    <Position X="16.25" Y="4.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAkAAAAAAAAAAAAAAAAAAAAAAAAgAAAQAAAAAA=</HashCode>
+      <FileName>Piece.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="PieceTypes" Collapsed="true">
+    <Position X="16.25" Y="5.25" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACyFAAE=</HashCode>
+      <FileName>Pieces.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
